@@ -1,0 +1,3 @@
+# Module cloudapphw1
+# RPC service class, partial path of RPC policy file
+tw.takeshi.client.LoginService, 5A6D50BE42292DF686FC606459A6AC41.gwt.rpc
